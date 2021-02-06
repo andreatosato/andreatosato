@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrea Tosato 👋 💻
 
-## I'm an Cloud Solution Architect at 4ward and a Speaker!
+## I'm an Cloud Solution Architect at Technogym and a Speaker!
 
 I'm co-founder and Community Leader of [CloudgenVerona](https://cloudgen.it/)
 I'm speaker at technical events and I write articles. I'm a Microsoft MVP in Azure award since 2019.
