@@ -6,6 +6,9 @@
 I'm co-founder and Community Leader of [CloudgenVerona](https://cloudgen.it/)
 I'm speaker at technical events and I write articles. I'm a Microsoft MVP in Azure award since 2019.
 
+[![Andrea Tosato's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreatosato&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreatosato)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
