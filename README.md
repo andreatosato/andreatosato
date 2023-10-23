@@ -6,7 +6,7 @@
 
 ![Twitch Status](https://img.shields.io/twitch/status/cloudgenverona?style=for-the-badge)
 
-## I'm Software Engineer at HUDI and a Speaker!
+## I'm Software Engineer at Beta 80 and a Speaker!
 
 I'm co-founder and Community Leader of [CloudgenVerona](https://cloudgen.it/)
 I'm speaker at technical events and I write articles. I'm a Microsoft MVP in Azure award since 2019.
